@@ -63,14 +63,13 @@ My long-term goal is to develop spatially intelligent agents that can understand
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/FUSER-CVPR2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FUSER: Feed-Forward Multiview 3D Registration Transformer and SE(3)<sup>N</sup> Diffusion Refinement](https://arxiv.org/pdf/2512.09373)
+[FUSER: Feed-Forward Multiview 3D Registration Transformer and SE(3)<sup>N</sup> Diffusion Refinement](https://arxiv.org/pdf/2512.09373) [(**Code**)](https://github.com/Jiang-HB/FUSER/tree/main)
 
 **Haobo Jiang**, Jin Xie, Jian Yang, Liang Yu, and Jianmin Zheng
 
-[**Code**](https://github.com/Jiang-HB/FUSER/tree/main) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- The first point-cloud-oriented 3D foundation reconstruction model for feed-forward multiview point-cloud registration.
+- We are the first to propose *point-cloud-oriented 3D foundation reconstruction model* for feed-forward multiview point-cloud registration.
 - An SE(3)<sup>N</sup> diffusion refinement model for globally consistent multiview pose optimization.
-- A new alternative to the conventional “pairwise registration + global synchronization” paradigm, reducing runtime from minutes to seconds while preserving state-of-the-art performance.
+- A new alternative to the conventional “pairwise-then-global” paradigm, reducing runtime from minutes to seconds while preserving SOTA performance.
 </div>
 </div>
 
