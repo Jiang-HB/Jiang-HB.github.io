@@ -88,6 +88,20 @@ My long-term goal is to develop spatially intelligent agents that can understand
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/VGGT360-CVPR2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation](https://arxiv.org/abs/2603.18943) ([**Code**](https://github.com/Yuanjiayii/VGGT-360))
+
+Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
+
+- A training-free framework for geometry-consistent panoramic depth via multi-view 3D reconstruction.
+- Uncertainty-guided projection and structure-aware attention for reliable cross-view reasoning.
+- A view-correlated paradigm that overcomes per-view inconsistency for globally coherent depth.
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
