@@ -58,7 +58,7 @@ My long-term goal is to develop spatially intelligent agents that can understand
 - *2021.08*: &nbsp;🎉 One paper was accepted by ***IJCAI 2021***.
 - *2018.11*: &nbsp;🎉 One paper was accepted by ***PRCV 2018***.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/FUSER-CVPR2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -74,7 +74,19 @@ My long-term goal is to develop spatially intelligent agents that can understand
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/FUSER-CVPR2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GM-R<sup>2</sup>: Generative Matching Learning for Unsupervised Geometric Representation and Registration](https://arxiv.org/pdf/2512.09373) ([**Code**](https://jiang-hb.github.io/), ⭐ **Highlight**)
+
+**Haobo Jiang**, Liang Yu, and Jianmin Zheng
+
+- The first generative matching learning paradigm for unsupervised point-cloud registration.
+- A denoising-agnostic coupled ControlNet for cross-view geometric representation learning.
+- A label-free paradigm achieving SOTA performance without transformation supervision.
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
