@@ -74,10 +74,10 @@ My long-term goal is to develop spatially intelligent agents that can understand
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/FUSER-CVPR2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/GMR2-CVPR2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GM-R<sup>2</sup>: Generative Matching Learning for Unsupervised Geometric Representation and Registration](https://arxiv.org/pdf/2512.09373) ([**Code**](https://jiang-hb.github.io/), ⭐ **Highlight**)
+[GM-R<sup>2</sup>: Generative Matching Learning for Unsupervised Geometric Representation and Registration](https://jiang-hb.github.io/) ([**Code**](https://jiang-hb.github.io/), ⭐ **Highlight**)
 
 **Haobo Jiang**, Liang Yu, and Jianmin Zheng
 
