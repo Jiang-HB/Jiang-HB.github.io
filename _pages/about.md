@@ -17,15 +17,35 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Scientist at ANGEL CorpLab, College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, where I work with Prof. <a href='https://scholar.google.com/citations?user=sGCf2k0AAAAJ&hl=en'>Jianmin Zheng</a>. Prior to this, I was a Research Fellow at the National University of Singapore (NUS). I obtained my PhD degree from PCA Lab, Nanjing University of Science and Technology (NJUST), under the supervision of Prof. <a href='https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=id'>Jian Yang</a> and Prof. <a href='https://scholar.google.com/citations?user=Q7QqJPEAAAAJ&hl=id'>Jin Xie</a>. In 2023, I was a visiting student at CVLab, EPFL, Switzerland, supervised by Dr. <a href='https://scholar.google.com/citations?user=n-B0jr4AAAAJ&hl=id'>Mathieu Salzmann</a>. In 2018, I spent several months as a Research Intern at the Inception Institute of Artificial Intelligence (IIAI), Abu Dhabi. 
+I am currently a Research Scientist at Nanyang Technological University (NTU) and ANGEL CorpLab, Singapore, where I work with Prof. <a href='https://scholar.google.com/citations?user=sGCf2k0AAAAJ&hl=en'>Jianmin Zheng</a>. Prior to this, I was a Research Fellow at the National University of Singapore (NUS). I obtained my PhD degree from PCA Lab, Nanjing University of Science and Technology (NJUST), under the supervision of Prof. <a href='https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=id'>Jian Yang</a> and Prof. <a href='https://scholar.google.com/citations?user=Q7QqJPEAAAAJ&hl=id'>Jin Xie</a>. In 2023, I was a visiting student at CVLab, EPFL, Switzerland, supervised by Dr. <a href='https://scholar.google.com/citations?user=n-B0jr4AAAAJ&hl=id'>Mathieu Salzmann</a>. In 2018, I spent several months as a Research Intern at the Inception Institute of Artificial Intelligence (IIAI), Abu Dhabi. 
 
-My research interests lie in 3D computer vision and reinforcement learning (RL), with a particular focus on 3D scene reconstruction and understanding for spatial intelligence, robotic navigation and manipulation for embodied AI, (world-)model based RL, and RL theory. My long-term goal is to develop spatially intelligent agents that can understand, reason about, and act in the physical world.
+My research interests lie in 3D computer vision and reinforcement learning (RL), with a particular focus on:
+- 3D scene reconstruction and understanding for spatial intelligence
+- Robotic navigation and manipulation for embodied AI
+- On-policy/off-policy/offline RL theory and (world-)model based RL/planning
+
+My long-term goal is to develop spatially intelligent agents that can understand, reason about, and act in the physical world!
 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: &nbsp;🎉 Four papers were accepted by ***CVPR 2026*** (One Oral  and One Highlight 🌟).
+- *2025.08*: &nbsp;🎉 One paper was accepted by ***IEEE Robotics and Automation Letters***.
+- *2025.07*: &nbsp;🎉 Three papers were accepted by ***AAAI 2026***.
+- *2025.06*: &nbsp;🎉 One paper was accepted by ***ICCV 2025***.
+- *2025.05*: &nbsp;🎉 One paper was accepted by ***ICML 2025***.
+- *2025.02*: &nbsp;🎉 One papers were accepted by ***CVPR 2025***.
+- *2024.12*: &nbsp;🎉 One paper was accepted by ***AAAI 2025***.
+- *2024.10*: &nbsp;🎉 One paper was accepted by ***IROS 2025***.
+- *2024.07*: &nbsp;🎉 One paper was accepted by ***ECCV 2024***.
+- *2024.05*: &nbsp;🎉 One paper was accepted by ***IEEE Transactions on Circuits and Systems for Video Technology***.
+- *2024.04*: &nbsp;🎉 One paper was accepted by ***ICASSP 2024***.
+- *2023.10*: &nbsp;🎉 One paper was accepted by ***IROS 2023***.
+- *2023.09*: &nbsp;🎉 One paper was accepted by ***NeurIPS 2023***.
+- *2023.07*: &nbsp;🎉 One paper was accepted by ***ICCV 2023***.
+- *2023.03*: &nbsp;🎉 One paper was accepted by ***CVPR 2023***.
+- *2022.09*: &nbsp;🎉 One paper was accepted by ***IEEE Transactions on Neural Networks and Learning Systems***.
+- 
 
 # 📝 Publications 
 
