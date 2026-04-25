@@ -143,6 +143,20 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/CenterReg-ICCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Center-Based Decoupled Point Cloud Registration for 6D Object Pose Estimation](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Center-Based_Decoupled_Point-cloud_Registration_for_6D_Object_Pose_Estimation_ICCV_2023_paper.pdf) ([**Code**](https://github.com/Jiang-HB/CenterReg))
+
+**Haobo Jiang**, Zheng Dang, Shuo Gu, Jin Xie, Mathieu Salzmann, and Jian Yang
+
+- A center-based decoupled registration framework for robust 6D object pose estimation.
+- A correspondence-free center predictor that decouples translation from rotation.
+- A center-aware rotation module with part-aware features and normal correction for reliable matching.
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
