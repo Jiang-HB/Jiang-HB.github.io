@@ -115,6 +115,20 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/GPCR-ICML2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Generative Point Cloud Registration](https://proceedings.mlr.press/v267/jiang25k.html) ([**Code**](https://github.com/Jiang-HB/GenerativePCR))
+
+**Haobo Jiang**, Jin Xie, Jian Yang, Liang Yu, and Jianmin Zheng
+
+- The first geometry-to-image synthesis-driven 3D matching paradigm that augments geometry-only descriptors with generated RGB cues.
+- Match-ControlNet for reliable, cross-view consistent image generation from point clouds.
+- A plug-and-play framework that converts generated color cues into stronger 3D correspondences.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/DiffReg-NeurIPS2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
