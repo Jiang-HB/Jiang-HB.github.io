@@ -115,6 +115,20 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/DiffReg-NeurIPS2023' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation](https://proceedings.neurips.cc/paper_files/paper/2023/file/43069caa6776eac8bca4bfd74d4a476d-Paper-Conference.pdf) ([**Code**](https://github.com/Jiang-HB/DiffusionReg))
+
+**Haobo Jiang**, Mathieu Salzmann, Zheng Dang, Jin Xie, and Jian Yang
+
+- The first SE(3) diffusion registration framework for robust 6D object pose estimation.
+- A manifold-aware denoising diffusion process that progressively refines noisy poses on SE(3).
+- A plug-and-play diffusion paradigm that boosts existing registration networks via surrogate modeling.
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
