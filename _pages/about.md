@@ -115,7 +115,7 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/DiffReg-NeurIPS2023' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/DiffReg-NeurIPS2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation](https://proceedings.neurips.cc/paper_files/paper/2023/file/43069caa6776eac8bca4bfd74d4a476d-Paper-Conference.pdf) ([**Code**](https://github.com/Jiang-HB/DiffusionReg))
