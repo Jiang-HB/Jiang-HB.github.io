@@ -102,7 +102,7 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ZeroMatch-CVPR2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ZeroMatch-CVPR2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Zero-shot RGB-D Point Cloud Registration with Pre-trained Large Vision Model](https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_Zero-shot_RGB-D_Point_Cloud_Registration_with_Pre-trained_Large_Vision_Model_CVPR_2025_paper.pdf) ([**Code**](https://github.com/Jiang-HB/ZeroMatch))
