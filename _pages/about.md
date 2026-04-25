@@ -60,15 +60,17 @@ My long-term goal is to develop spatially intelligent agents that can understand
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/FUSER-CVPR2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[FUSER: Feed-Forward Multiview 3D Registration Transformer and SE(3)<sup>N</sup> Diffusion Refinement](https://arxiv.org/pdf/2512.09373)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Haobo Jiang**, Jin Xie, Jian Yang, Liang Yu, and Jianmin Zheng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://github.com/Jiang-HB/FUSER/tree/main) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- The first point-cloud-oriented 3D foundation reconstruction model for feed-forward multiview point-cloud registration.
+- An SE(3)<sup>N</sup> diffusion refinement model for globally consistent multiview pose optimization.
+- A new alternative to the conventional “pairwise registration + global synchronization” paradigm, reducing runtime from minutes to seconds while preserving state-of-the-art performance.
 </div>
 </div>
 
