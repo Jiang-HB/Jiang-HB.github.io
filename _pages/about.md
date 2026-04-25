@@ -29,10 +29,11 @@ My long-term goal is to develop spatially intelligent agents that can understand
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉 Four papers were accepted by ***CVPR 2026*** (One Oral  and One Highlight 🌟).
+- *2026.02*: &nbsp;🎉 Four papers were accepted by ***CVPR 2026*** (🌟 1 Oral, 1 Highlight).
 - *2025.08*: &nbsp;🎉 One paper was accepted by ***IEEE Robotics and Automation Letters***.
 - *2025.07*: &nbsp;🎉 Three papers were accepted by ***AAAI 2026***.
 - *2025.06*: &nbsp;🎉 One paper was accepted by ***ICCV 2025***.
+- *2025.06*: &nbsp;🎉 One paper was accepted by ***PRCV 2025***.
 - *2025.05*: &nbsp;🎉 One paper was accepted by ***ICML 2025***.
 - *2025.02*: &nbsp;🎉 One papers were accepted by ***CVPR 2025***.
 - *2024.12*: &nbsp;🎉 One paper was accepted by ***AAAI 2025***.
@@ -42,10 +43,20 @@ My long-term goal is to develop spatially intelligent agents that can understand
 - *2024.04*: &nbsp;🎉 One paper was accepted by ***ICASSP 2024***.
 - *2023.10*: &nbsp;🎉 One paper was accepted by ***IROS 2023***.
 - *2023.09*: &nbsp;🎉 One paper was accepted by ***NeurIPS 2023***.
+- *2023.08*: &nbsp;🎉 One paper was accepted by ***ACM MM 2023***.
 - *2023.07*: &nbsp;🎉 One paper was accepted by ***ICCV 2023***.
+- *2023.07*: &nbsp;🎉 Two paper were accepted by ***AAAI 2023***.
 - *2023.03*: &nbsp;🎉 One paper was accepted by ***CVPR 2023***.
 - *2022.09*: &nbsp;🎉 One paper was accepted by ***IEEE Transactions on Neural Networks and Learning Systems***.
-- 
+- *2022.08*: &nbsp;🎉 One paper was accepted by ***ACCV 2022***.
+- *2022.07*: &nbsp;🎉 One paper was accepted by ***ECCV 2022***.
+- *2022.03*: &nbsp;🎉 One paper was accepted by ***IEEE Transactions on Neural Networks and Learning Systems***.
+- *2022.01*: &nbsp;🎉 One paper was accepted by ***ACPR 2021*** (🏆 Best Paper).
+- *2021.06*: &nbsp;🎉 One paper was accepted by ***ICCV 2021***.
+- *2022.07*: &nbsp;🎉 One paper was accepted by ***AAAI 2022***.
+- *2021.07*: &nbsp;🎉 One paper was accepted by ***AAAI 2021***.
+- *2021.08*: &nbsp;🎉 One paper was accepted by ***IJCAI 2021***.
+- *2018.11*: &nbsp;🎉 One paper was accepted by ***PRCV 2018***.
 
 # 📝 Publications 
 
