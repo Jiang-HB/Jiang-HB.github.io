@@ -67,9 +67,10 @@ My long-term goal is to develop spatially intelligent agents that can understand
 
 **Haobo Jiang**, Jin Xie, Jian Yang, Liang Yu, and Jianmin Zheng
 
-- We are the first to propose *point-cloud-oriented 3D foundation reconstruction model* for feed-forward multiview point-cloud registration.
-- An SE(3)<sup>N</sup> diffusion refinement model for globally consistent multiview pose optimization.
-- A new alternative to the conventional “pairwise-then-global” paradigm, reducing runtime from minutes to seconds while preserving SOTA performance.
+- The first *point-cloud-oriented 3D foundation reconstruction model* for feed-forward multiview point-cloud registration.
+- An SE(3)<sup>N</sup> diffusion refinement model for multiview pose refinement.
+- A new “pairwise-free” paradigm that cuts runtime from minutes to seconds while maintaining SOTA performance.
+
 </div>
 </div>
 
