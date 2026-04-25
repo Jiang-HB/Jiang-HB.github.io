@@ -51,7 +51,7 @@ My long-term goal is to develop spatially intelligent agents that can understand
 - *2022.08*: &nbsp;🎉 One paper was accepted by ***ACCV 2022***.
 - *2022.07*: &nbsp;🎉 One paper was accepted by ***ECCV 2022***.
 - *2022.03*: &nbsp;🎉 One paper was accepted by ***IEEE Transactions on Neural Networks and Learning Systems***.
-- *2022.01*: &nbsp;🎉 One paper was accepted by ***ACPR 2021*** (🏆 Best Paper).
+- *2022.01*: &nbsp;🎉 One paper was accepted by ***ACPR 2021*** (🏆 Best Paper Award).
 - *2021.06*: &nbsp;🎉 One paper was accepted by ***ICCV 2021***.
 - *2022.07*: &nbsp;🎉 One paper was accepted by ***AAAI 2022***.
 - *2021.07*: &nbsp;🎉 One paper was accepted by ***AAAI 2021***.
@@ -98,6 +98,19 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 - A training-free framework for geometry-consistent panoramic depth via multi-view 3D reconstruction.
 - Uncertainty-guided projection and structure-aware attention for reliable cross-view reasoning.
 - A view-correlated paradigm that overcomes per-view inconsistency for globally coherent depth.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ZeroMatch-CVPR2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Zero-shot RGB-D Point Cloud Registration with Pre-trained Large Vision Model](https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_Zero-shot_RGB-D_Point_Cloud_Registration_with_Pre-trained_Large_Vision_Model_CVPR_2025_paper.pdf) ([**Code**](https://github.com/Jiang-HB/ZeroMatch))
+
+**Haobo Jiang**, Jin Xie, Jian Yang, Liang Yu, and Jianmin Zheng
+
+- The first zero-shot RGB-D point-cloud registration framework for robust matching without task-specific supervision.
+- A training-free local-global descriptor that combines local FPFH geometry with global Stable-Diffusion contextual priors.
 
 </div>
 </div>
