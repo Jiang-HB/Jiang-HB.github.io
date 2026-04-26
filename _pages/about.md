@@ -199,6 +199,20 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021</div><img src='images/PlanReg-IJCAI2021' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Planning with Learned Dynamic Model for Unsupervised Point Cloud Registration](https://arxiv.org/pdf/2108.02613) ([**Code**](https://jiang-hb.github.io/))
+
+**Haobo Jiang**, Jin Xie, Jianjun Qian and Jian Yang
+
+- The first to formulate point-cloud registration as a Markov decision process for RL-based alignment.
+- A latent dynamics model of point clouds, i.e., *a 3D world model*, for CEM-based planning.
+- Planning with the learned latent dynamics model for unsupervised point-cloud registration.
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
