@@ -157,6 +157,20 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/VBReg-CVPR2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robust Outlier Rejection for 3D Registration with Variational Bayes](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Robust_Outlier_Rejection_for_3D_Registration_With_Variational_Bayes_CVPR_2023_paper.pdf) ([**Code**](https://github.com/Jiang-HB/VBReg))
+
+**Haobo Jiang**, Zheng Dang, Zhen Wei, Jin Xie, Jian Yang, and Mathieu Salzmann
+
+- A variational non-local network for outlier rejection via Bayesian long-range correspondence modeling.
+- A customized probabilistic graphical model with a variational lower bound for optimization.
+- A Wilson score-based voting scheme for high-quality inlier search, with theoretical advantages over RANSAC.
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
