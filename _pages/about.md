@@ -233,11 +233,11 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 
 - **Haobo Jiang**, Jin Xie, Jian Yang, Liang Yu and Jianmin Zheng, "FUSER: Feed-Forward MUltiview 3D Registration Transformer and SE(3)<sup>N</sup> Diffusion Refinement", **CVPR 2026 (⭐Oral)** ([pdf](https://arxiv.org/pdf/2512.09373), [code](https://github.com/Jiang-HB/FUSER))
 - **Haobo Jiang**, Liang Yu and Jianmin Zheng, "GM-R<sup>2</sup>: Generative Matching Learning for Unsupervised Geometric Representation and Registration", **CVPR 2026 (⭐Highlight)** ([pdf](https://jiang-hb.github.io/), [code](https://jiang-hb.github.io/))
-- Jiayi Yuan, **Haobo Jiang**, De Wen Soh and Na Zhao, "VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation", **CVPR 2026** ([pdf](https://arxiv.org/pdf/2603.18943), [code](https://jiang-hb.github.io/))
 - Kangjian Zhu, **Haobo Jiang<sup>#</sup>**, Jianjun Qian and Jin Xie, "A Cross-view Fusion Framework for Robust 6-DoF Grasp Pose Estimation", **CVPR 2026** ([pdf](https://jiang-hb.github.io/), [code](https://jiang-hb.github.io/), **Corresponding Author<sup>#</sup>**)
+- Jiayi Yuan, **Haobo Jiang**, De Wen Soh and Na Zhao, "VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation", **CVPR 2026** ([pdf](https://arxiv.org/pdf/2603.18943), [code](https://jiang-hb.github.io/))
+- Yihao Chen, **Haobo Jiang***, Liang Yu and Jianmin Zheng, "SchellingFormer: Laplacian Matrix-guided Geometric Transformer for Robust Schelling Point Detection", **AAAI 2026** ([pdf](https://ojs.aaai.org/index.php/AAAI/article/view/39126), [code](https://jiang-hb.github.io/), **Equal Contribution***)
 - Yijie Ding, Yang Liu, **Haobo Jiang** and Jianmin Zheng, "ReACT: Reward-informed Autoregressive Decision CAD Transformer", **AAAI 2026** ([pdf](https://ojs.aaai.org/index.php/AAAI/article/view/37360), [code](https://jiang-hb.github.io/))
 - Jiawei Lian, Zhengxue Wang, Wentao Qu, **Haobo Jiang**, Le Hui and Jian Yang, "Diffusion-Based Contextual Reconstruction for Point Cloud Segmentation with Limited Annotations", **AAAI 2026** ([pdf](https://ojs.aaai.org/index.php/AAAI/article/view/37610), [code](https://github.com/ljwwwiop/DiCoSeg))
-- Yihao Chen, **Haobo Jiang***, Liang Yu and Jianmin Zheng, "SchellingFormer: Laplacian Matrix-guided Geometric Transformer for Robust Schelling Point Detection", **AAAI 2026** ([pdf](https://ojs.aaai.org/index.php/AAAI/article/view/39126), [code](https://jiang-hb.github.io/), **Equal Contribution***)
 
 2025
 
