@@ -285,16 +285,10 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 - **Haobo Jiang**, Jianjun Qian, Jin Xie and Jian Yang, "Episode-Experience Replay Based Tree-Backup Method for Off-Policy Actor-Critic Algorithm", **PRCV 2018** ([pdf](https://link.springer.com/chapter/10.1007/978-3-030-03398-9_48), [code](https://jiang-hb.github.io/))
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [2025.11] Nomination Award of China Society of Image and Graphics (CSIG, 中国图象图形学学会) Outstanding Doctoral Thesis
+- [2022.01] Best Paper Award, Asian Conference on Pattern Recognition (ACPR), 2021
+- [2021.10] National Graduate Scholarship (Top 2%), NJUST
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🤝 Academic Services
+- Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, ACM MM, AAAI
+- Journal Reviewer: IEEE TPAMI, IEEE TNNLS, IEEE TCSVT, IEEE RAL, PR, 
