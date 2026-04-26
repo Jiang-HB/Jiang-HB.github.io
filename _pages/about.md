@@ -81,9 +81,9 @@ My long-term goal is to develop spatially intelligent agents that can understand
 
 **Haobo Jiang**, Liang Yu, and Jianmin Zheng
 
-- The first generative matching learning paradigm for unsupervised point-cloud registration.
-- A denoising-agnostic coupled ControlNet for cross-view geometric representation learning.
-- A label-free paradigm achieving SOTA performance without transformation supervision.
+- We propose GM-R<sup>2</sup> for unsupervised 3D descriptor learning via generative cross-view matching.
+- We design a Coupled ControlNet for geometry-only cross-view synthesis and matching.
+- We introduce Auto-FoV ERP for intrinsics-free high-resolution range projection.
 
 </div>
 </div>
