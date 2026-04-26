@@ -171,6 +171,20 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2022</div><img src='images/RDT-TNNLS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Point Cloud Registration-Driven Robust Feature Matching for 3D Siamese Object Tracking](https://arxiv.org/pdf/2209.06395) ([**Code**](https://jiang-hb.github.io/))
+
+**Haobo Jiang**, Kaihao Lan, Le Hui, Guangyu Li, Jin Xie, and Jian Yang
+
+- A 3D registration-driven Siamese framework for robust point-cloud tracking.
+- A tracking-specific non-local registration module for template-search alignment.
+- A registration-aided feature aggregation module for refined feature matching.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/CEMNet-ICCV2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -185,7 +199,7 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS & AAAI 2021</div><img src='images/FPPO-ACPR2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2022 & AAAI 2021</div><img src='images/FPPO-ACPR2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Action Candidate Driven Clipped Double Q-learning for Discrete and Continuous Action Tasks](https://arxiv.org/pdf/2203.11526) ([**Code**](https://github.com/Jiang-HB/AC_CDQ))
