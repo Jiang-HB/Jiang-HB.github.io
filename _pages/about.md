@@ -185,7 +185,7 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS & AAAI 2021</div><img src='images/ACCDQ-TNNLS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS & AAAI 2021</div><img src='images/FPPO-ACPR2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Action Candidate Driven Clipped Double Q-learning for Discrete and Continuous Action Tasks](https://arxiv.org/pdf/2203.11526) ([**Code**](https://github.com/Jiang-HB/AC_CDQ))
