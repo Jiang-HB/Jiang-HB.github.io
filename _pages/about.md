@@ -199,7 +199,7 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021</div><img src='images/PlanReg-IJCAI2021' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021</div><img src='images/PlanReg-IJCAI2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Planning with Learned Dynamic Model for Unsupervised Point Cloud Registration](https://arxiv.org/pdf/2108.02613) ([**Code**](https://jiang-hb.github.io/))
