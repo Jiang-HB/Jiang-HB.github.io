@@ -95,7 +95,7 @@ My long-term goal is to develop spatially intelligent agents that can understand
 
 Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 
-- A training-free framework for geometry-consistent panoramic depth via multi-view 3D reconstruction.
+- A training-free framework for geometry-consistent panoramic depth estimation via multi-view 3D reconstruction.
 - Uncertainty-guided projection and structure-aware attention for reliable cross-view reasoning.
 - A view-correlated paradigm that overcomes per-view inconsistency for globally coherent depth.
 
@@ -181,6 +181,20 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 - An end-to-end CEM-based deep model for unsupervised point cloud registration.
 - A sampling network that predicts promising transformation regions for efficient search.
 - An ICP-driven reward and sparsemax-based soft top-k selection for differentiable candidate optimization.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS & AAAI 2021</div><img src='images/ACCDQ-TNNLS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Action Candidate Driven Clipped Double Q-learning for Discrete and Continuous Action Tasks](https://arxiv.org/pdf/2203.11526) ([**Code**](https://github.com/Jiang-HB/AC_CDQ))
+
+**Haobo Jiang**, Jin Xie, and Jian Yang
+
+- An action-candidate clipped double estimator that balances overestimation and underestimation bias.
+- Theoretical analysis on bias reduction, variance balance, and convergence.
+- Integration into Double Q-learning and TD3 for robust discrete and continuous control.
 
 </div>
 </div>
