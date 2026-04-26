@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haobo Jiang (蒋豪博)"
+  name             : "Haobo Jiang      蒋豪博"
   avatar           : "images/person.JPG"
   bio              : "Research Scientist at NTU | ANGEL, focusing on spatial intelligence for embodied decision-making"
   location         : "Singapore"
