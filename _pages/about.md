@@ -227,6 +227,10 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 </div>
 </div>
 
+# 📝 Full Publications 
+- **Haobo Jiang**, Jin Xie, Jian Yang, Liang Yu and Jianmin Zheng, FUSER: Feed-Forward MUltiview 3D Registration Transformer and SE(3)<sup>N</sup>  Diffusion Refinement, **CVPR 2026 (Oral)** ([pdf](https://arxiv.org/pdf/2512.09373), [code](https://github.com/Jiang-HB/FUSER))
+- **Haobo Jiang**, Liang Yu and Jianmin Zheng, GM-R<sup>2</sup>: Generative Matching Learning for Unsupervised Geometric Representation and Registration, **CVPR 2026 (Highlight)** ([pdf](https://jiang-hb.github.io/), [Code](https://jiang-hb.github.io/))
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
