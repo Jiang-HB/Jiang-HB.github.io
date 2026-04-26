@@ -171,6 +171,20 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/CEMNet-ICCV2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sampling Network Guided Cross-Entropy Method for Unsupervised Point Cloud Registration](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Sampling_Network_Guided_Cross-Entropy_Method_for_Unsupervised_Point_Cloud_Registration_ICCV_2021_paper.pdf) ([**Code**](https://github.com/Jiang-HB/CEMNet))
+
+**Haobo Jiang**, Yaqi Shen, Jin Xie, Jun Li, Jianjun Qian, and Jian Yang
+
+- An end-to-end CEM-based deep model for unsupervised point cloud registration.
+- A sampling network that predicts promising transformation regions for efficient search.
+- An ICP-driven reward and sparsemax-based soft top-k selection for differentiable candidate optimization.
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
