@@ -230,6 +230,106 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 # 📝 Full Publications 
 - **Haobo Jiang**, Jin Xie, Jian Yang, Liang Yu and Jianmin Zheng, FUSER: Feed-Forward MUltiview 3D Registration Transformer and SE(3)<sup>N</sup>  Diffusion Refinement, **CVPR 2026 (Oral)** ([pdf](https://arxiv.org/pdf/2512.09373), [code](https://github.com/Jiang-HB/FUSER))
 - **Haobo Jiang**, Liang Yu and Jianmin Zheng, GM-R<sup>2</sup>: Generative Matching Learning for Unsupervised Geometric Representation and Registration, **CVPR 2026 (Highlight)** ([pdf](https://jiang-hb.github.io/), [Code](https://jiang-hb.github.io/))
+- Kangjian Zhu, **Haobo Jiang<sup>*</sup>**, Jianjun Qian and Jin Xie, A Cross-view Fusion Framework for Robust 6-DoF Grasp Pose Estimation, **CVPR 2026** ([pdf](https://jiang-hb.github.io/), [Code](https://jiang-hb.github.io/), **Corresponding Author*)
+- Tianyu Zhang, **Haobo Jiang**, Jian Yang and Jin Xie, DiffPCI: Large Motion Point Cloud Frame Interpolation with Diffusion Model, **ICCV 2025** ([pdf](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_DiffPCI_Large_Motion_Point_Cloud_frame_Interpolation_with_Diffusion_Model_ICCV_2025_paper.pdf), [Code](https://jiang-hb.github.io/))
+
+  2026                                                                                                                                                            
+                                                  
+  - Haobo Jiang, Jin Xie, Jian Yang, Liang Yu and Jianmin Zheng, FUSER: Feed-Forward MUltiview 3D Registration Transformer and SE(3)N Diffusion Refinement, CVPR  
+  2026 (Oral) (https://arxiv.org/pdf/2512.09373, https://github.com/Jiang-HB/FUSER)                                                                               
+  - Haobo Jiang, Liang Yu and Jianmin Zheng, GM-R2: Generative Matching Learning for Unsupervised Geometric Representation and Registration, CVPR 2026 (Highlight)
+   (https://jiang-hb.github.io/, https://jiang-hb.github.io/)                                                                                                     
+  - Kangjian Zhu, Haobo Jiang*, Jianjun Qian and Jin Xie, A Cross-view Fusion Framework for Robust 6-DoF Grasp Pose Estimation, CVPR 2026                         
+  (https://jiang-hb.github.io/, https://jiang-hb.github.io/) (*Corresponding Author)                                                                              
+  - Jiayi Yuan, Haobo Jiang, De Wen Soh and Na Zhao, VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation, CVPR 2026
+  (https://arxiv.org/pdf/2603.18943, https://jiang-hb.github.io/)                                                                                                 
+  - Yaqing Ding, Y. Liu, Haobo Jiang and Jianmin Zheng, ReACT: Reward-informed Autoregressive Decision CAD Transformer, AAAI 2026 (https://jiang-hb.github.io/,
+  https://jiang-hb.github.io/)                                                                                                                                    
+  - J. Lian, Z. Wang, W. Qu, Haobo Jiang, Le Hui and Jian Yang, Diffusion-Based Contextual Reconstruction for Point Cloud Segmentation with Limited Annotations,
+  AAAI 2026 (https://jiang-hb.github.io/, https://jiang-hb.github.io/)                                                                                            
+  - Y. Chen, Haobo Jiang, Liang Yu and Jianmin Zheng, SchellingFormer: Laplacian Matrix-guided Geometric Transformer for Robust Schelling Point Detection, AAAI 
+  2026 (https://jiang-hb.github.io/, https://jiang-hb.github.io/)                                                                                                 
+                  
+  2025                                                                                                                                                            
+                  
+  - Haobo Jiang, Jin Xie, Jian Yang, Liang Yu and Jianmin Zheng, Generative Point Cloud Registration, ICML 2025 (https://arxiv.org/pdf/2512.09407,                
+  https://jiang-hb.github.io/)
+  - Haobo Jiang, Jin Xie, Jian Yang, Liang Yu and Jianmin Zheng, Zero-shot RGB-D Point Cloud Registration with Pre-trained Large Vision Model, CVPR 2025          
+  (https://jiang-hb.github.io/, https://jiang-hb.github.io/)                                                                                                      
+  - Tianyu Zhang, Haobo Jiang, Jian Yang and Jin Xie, DiffPCI: Large Motion Point Cloud Frame Interpolation with Diffusion Model, ICCV 2025
+  (https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_DiffPCI_Large_Motion_Point_Cloud_frame_Interpolation_with_Diffusion_Model_ICCV_2025_paper.pdf,     
+  https://jiang-hb.github.io/)
+  - Kangjian Zhu, Haobo Jiang, Yigong Zhang, Jianjun Qian, Jian Yang and Jin Xie, MonoSE(3)-Diffusion: A Monocular SE(3) Diffusion Framework for Robust           
+  Camera-to-Robot Pose Estimation, IEEE RA-L 2025 (https://arxiv.org/pdf/2510.10434, https://jiang-hb.github.io/)                                                 
+  - Wei Xie, Haobo Jiang, Yun Zhu, Jianjun Qian and Jin Xie, NaviFormer: A Spatio-Temporal Context-Aware Transformer for Object Navigation, AAAI 2025
+  (https://jiang-hb.github.io/, https://jiang-hb.github.io/)                                                                                                      
+  - Yuechen Xie, Haobo Jiang, Jian Yang, Yigong Zhang and Jin Xie, MaskHOI: Robust 3D Hand-Object Interaction Estimation via Masked Pre-training, arXiv 2025
+  (https://arxiv.org/pdf/2507.13673, https://jiang-hb.github.io/)                                                                                                 
+  - Yuechen Xie, Haobo Jiang and Jin Xie, Mask6D: Masked Pose Priors for 6D Object Pose Estimation, arXiv 2025 (https://arxiv.org/pdf/2507.06486,
+  https://jiang-hb.github.io/)                                                                                                                                    
+  - Qianliang Wu, Haobo Jiang, Yaqing Ding, Lei Luo, Jun Li, Jin Xie, Xiaojun Wu and Jian Yang, Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image
+  Matching and 3D Registration, arXiv 2025 (https://arxiv.org/pdf/2503.04127, https://jiang-hb.github.io/)                                                        
+  - X. Zhou, Haobo Jiang and Jian Yang, Knowledge Distillation for 3D Registration by Locally and Globally Aligning Geometric Representations, PRCV 2025
+  (https://jiang-hb.github.io/, https://jiang-hb.github.io/)                                                                                                      
+                  
+  2024                                                                                                                                                            
+                  
+  - Qianliang Wu, Haobo Jiang, Lei Luo, Jun Li, Yaqing Ding, Jin Xie and Jian Yang, Diff-Reg: Diffusion Model in Doubly Stochastic Matrix Space for Registration  
+  Problem, ECCV 2024 (https://arxiv.org/pdf/2403.19919, https://jiang-hb.github.io/)
+  - Qianliang Wu, Yaqing Ding, Lei Luo, Haobo Jiang, Shuo Gu, Chuanwei Zhou, Jin Xie and Jian Yang, SGNet: Salient Geometric Network for Point Cloud Registration,
+   IROS 2024 (https://arxiv.org/pdf/2309.06207, https://jiang-hb.github.io/)                                                                                      
+  - C. Xu, Le Hui, Yuehui Han, Haobo Jiang, J. Chen, Jin Xie and Jian Yang, Learning Local Semantic Region Activations for Weakly Supervised Object Localization,
+  IEEE TCSVT 2024 (https://jiang-hb.github.io/, https://jiang-hb.github.io/)                                                                                      
+                  
+  2023                                                                                                                                                            
+                  
+  - Haobo Jiang, Zheng Dang, Zhen Wei, Jin Xie, Jian Yang and Mathieu Salzmann, Robust Outlier Rejection for 3D Registration with Variational Bayes, CVPR 2023    
+  (https://arxiv.org/pdf/2304.01514, https://jiang-hb.github.io/)
+  - Haobo Jiang, Mathieu Salzmann, Zheng Dang, Jin Xie and Jian Yang, SE(3) Diffusion Model-Based Point Cloud Registration for Robust 6D Object Pose Estimation,  
+  NeurIPS 2023 (https://arxiv.org/pdf/2310.17359, https://jiang-hb.github.io/)                                                                                    
+  - Haobo Jiang, Mathieu Salzmann, Zheng Dang, Jin Xie and Jian Yang, Center-Based Decoupled Point Cloud Registration for 6D Object Pose Estimation, ICCV 2023
+  (https://jiang-hb.github.io/, https://jiang-hb.github.io/)                                                                                                      
+  - Haobo Jiang, Kaihao Lan, Le Hui, Guangyu Li, Jin Xie and Jian Yang, Point Cloud Registration-Driven Robust Feature Matching for 3D Siamese Object Tracking,
+  IEEE TNNLS 2023 (https://arxiv.org/pdf/2209.06395, https://jiang-hb.github.io/)                                                                                 
+  - Qianliang Wu, Yaqi Shen, Haobo Jiang, Guofeng Mei, Yaqing Ding, Lei Luo, Jin Xie and Jian Yang, Graph Matching Optimization Network for Point Cloud
+  Registration, IROS 2023 (https://arxiv.org/pdf/2302.05844, https://jiang-hb.github.io/)                                                                         
+  - Wei Xie, Haobo Jiang, Shuo Gu and Jin Xie, Implicit Obstacle Map-Driven Indoor Navigation Model for Robust Obstacle Avoidance, ACM MM 2023
+  (https://arxiv.org/pdf/2308.12845, https://jiang-hb.github.io/)                                                                                                 
+  - Jiayi Yuan, Haobo Jiang, Xiang Li, Jianjun Qian, Jun Li and Jian Yang, Recurrent Structure Attention Guidance for Depth Super-Resolution, AAAI 2023
+  (https://arxiv.org/pdf/2301.13419, https://jiang-hb.github.io/)                                                                                                 
+  - Jiayi Yuan, Haobo Jiang, Xiang Li, Jianjun Qian, Jun Li and Jian Yang, Structure Flow-Guided Network for Real Depth Super-Resolution, AAAI 2023
+  (https://arxiv.org/pdf/2301.13416, https://jiang-hb.github.io/)                                                                                                 
+  - J. Li, Guangyu Li, Haobo Jiang, W. Guo and C. Gong, An Efficient Enhanced-YOLOv5 Algorithm for Multi-scale Ship Detection, ICONIP 2023
+  (https://jiang-hb.github.io/, https://jiang-hb.github.io/)                                                                                                      
+                  
+  2022                                                                                                                                                            
+                  
+  - Haobo Jiang, Guangyu Li, Jin Xie and Jian Yang, Action Candidate Driven Clipped Double Q-Learning for Discrete and Continuous Action Tasks, IEEE TNNLS 2022   
+  (https://arxiv.org/pdf/2203.11526, https://jiang-hb.github.io/)
+  - Yaqi Shen, Le Hui, Haobo Jiang, Jin Xie and Jian Yang, Reliable Inlier Evaluation for Unsupervised Point Cloud Registration, AAAI 2022                        
+  (https://arxiv.org/pdf/2202.11292, https://jiang-hb.github.io/)                                                                                                 
+  - Yuehui Han, Le Hui, Haobo Jiang, Jianjun Qian and Jin Xie, Generative Subgraph Contrast for Self-Supervised Graph Representation Learning, ECCV 2022
+  (https://arxiv.org/pdf/2207.11996, https://jiang-hb.github.io/)                                                                                                 
+  - Kaihao Lan, Haobo Jiang and Jin Xie, Temporal-Aware Siamese Tracker: Integrate Temporal Context for 3D Object Tracking, ACCV 2022
+  (https://jiang-hb.github.io/, https://jiang-hb.github.io/)                                                                                                      
+  - Weiqi Zhao, Haobo Jiang and Jin Xie, Fast Proximal Policy Optimization, ACPR 2022 (https://jiang-hb.github.io/, https://jiang-hb.github.io/)
+  - Yubin Guo, Haobo Jiang, Xinlei Qi, Jin Xie, Cheng-Zhong Xu and Hui Kong, Unsupervised Visible-Light Images Guided Cross-Spectrum Depth Estimation from        
+  Dual-Modality Cameras, arXiv 2022 (https://arxiv.org/pdf/2205.00257, https://jiang-hb.github.io/)                                                               
+                                                                                                                                                                  
+  2021                                                                                                                                                            
+                  
+  - Haobo Jiang, Jin Xie and Jian Yang, Action Candidate Based Clipped Double Q-Learning for Discrete and Continuous Action Tasks, AAAI 2021                      
+  (https://arxiv.org/pdf/2105.00704, https://jiang-hb.github.io/)
+  - Haobo Jiang, Yaqi Shen, Jin Xie, Jun Li, Jianjun Qian and Jian Yang, Sampling Network Guided Cross-Entropy Method for Unsupervised Point Cloud Registration,  
+  ICCV 2021 (https://arxiv.org/pdf/2109.06619, https://jiang-hb.github.io/)                                                                                       
+  - Haobo Jiang, Jin Xie and Jian Yang, Planning with Learned Dynamic Model for Unsupervised Point Cloud Registration, IJCAI 2021
+  (https://arxiv.org/pdf/2108.02613, https://jiang-hb.github.io/)                                                                                                 
+                  
+  2018                                                                                                                                                            
+                  
+  - Haobo Jiang, Jianjun Qian, Jin Xie and Jian Yang, Episode-Experience Replay Based Tree-Backup Method for Off-Policy Actor-Critic Algorithm, PRCV 2018         
+  (https://jiang-hb.github.io/, https://jiang-hb.github.io/)
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
