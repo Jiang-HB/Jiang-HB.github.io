@@ -290,7 +290,7 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 
 2018
 
-- **Haobo Jiang**, Jianjun Qian, Jin Xie and Jian Yang, Episode-Experience Replay Based Tree-Backup Method for Off-Policy Actor-Critic Algorithm, **PRCV 2018** ([pdf](https://jiang-hb.github.io/), [code](https://jiang-hb.github.io/))
+- **Haobo Jiang**, Jianjun Qian, Jin Xie and Jian Yang, Episode-Experience Replay Based Tree-Backup Method for Off-Policy Actor-Critic Algorithm, **PRCV 2018** ([pdf](https://link.springer.com/chapter/10.1007/978-3-030-03398-9_48))
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
