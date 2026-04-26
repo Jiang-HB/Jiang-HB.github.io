@@ -102,6 +102,20 @@ Jiayi Yuan, **Haobo Jiang**, De Wen Soh, and Na Zhao
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/Robot-CVPR2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Cross-view Fusion Framework for Robust 6-DoF Grasp Pose Estimation](https://jiang-hb.github.io/) ([**Code**](https://jiang-hb.github.io/))
+
+Kangjian Zhu, **Haobo Jiang#**, Jianjun Qian, Jin Xie
+
+- A cross-view fusion framework for robust 6-DoF grasp pose estimation under occlusion.
+- A self-supervised contrastive strategy for spatially consistent and direction-discriminative point features.
+- A cross-view-aligned cylinder integration module for fine-grained grasp-context modeling.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ZeroMatch-CVPR2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
