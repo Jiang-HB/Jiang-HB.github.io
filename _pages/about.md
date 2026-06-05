@@ -63,7 +63,7 @@ My long-term goal is to develop spatially intelligent agents that can understand
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/FUSER-CVPR2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FUSER: Feed-Forward Multiview 3D Registration Transformer and SE(3)<sup>N</sup> Diffusion Refinement](https://arxiv.org/pdf/2512.09373) ([**Code**](https://github.com/Jiang-HB/FUSER/tree/main), ⭐ **Oral**)
+[FUSER: Feed-Forward Multiview 3D Registration Transformer and SE(3)<sup>N</sup> Diffusion Refinement](https://arxiv.org/pdf/2512.09373) ([**Code**](https://github.com/Jiang-HB/FUSER/tree/main), [**Project**](https://jiang-hb.github.io/fuser.github.io/), ⭐ **Oral**, **Best Paper Award Candidate**)
 
 **Haobo Jiang**, Jin Xie, Jian Yang, Liang Yu, and Jianmin Zheng
 
