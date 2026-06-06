@@ -314,6 +314,7 @@ Wei Xie, **Haobo Jiang**, Yun Zhu, Jianjun Qian, Jin Xie
 - **Haobo Jiang**, Jianjun Qian, Jin Xie and Jian Yang, "Episode-Experience Replay Based Tree-Backup Method for Off-Policy Actor-Critic Algorithm", **PRCV 2018** ([pdf](https://link.springer.com/chapter/10.1007/978-3-030-03398-9_48), [code](https://jiang-hb.github.io/))
 
 # 🎖 Honors and Awards
+- [2026.06] Best Paper Award Candidate, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
 - [2025.11] Nomination Award of China Society of Image and Graphics (CSIG, 中国图象图形学学会) Outstanding Doctoral Thesis
 - [2022.01] Best Paper Award, Asian Conference on Pattern Recognition (ACPR), 2021
 - [2021.10] National Graduate Scholarship (Top 2%), NJUST
