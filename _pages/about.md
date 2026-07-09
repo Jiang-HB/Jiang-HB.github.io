@@ -29,7 +29,8 @@ My long-term goal is to develop spatially intelligent agents that can understand
 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉 Our paper FUSER is selected as ***CVPR 2026 Best Paper Award Candidate***. It is the first point cloud-centric 3D reconstruction foundation model for feed-forward multiview registration without any pairwise matching or global synchronization.
+- *2026.07*: &nbsp; I was invited to serve as an Area Chair for **ICIG 2026** and as an International Program Committee (IPC) Member for **Pacific Graphics 2026**.
+- *2026.06*: &nbsp;🎉 Our paper FUSER is selected as 🏆***CVPR 2026 Best Paper Award Candidate***. It is the first point cloud-centric 3D reconstruction foundation model for feed-forward multiview registration without any pairwise matching or global synchronization.
 - *2026.02*: &nbsp;🎉 Four papers were accepted by ***CVPR 2026*** (⭐ 1 Oral, 1 Highlight).
 - *2025.08*: &nbsp;🎉 One paper was accepted by ***IEEE Robotics and Automation Letters***.
 - *2025.07*: &nbsp;🎉 Three papers were accepted by ***AAAI 2026***.
@@ -320,5 +321,6 @@ Wei Xie, **Haobo Jiang**, Yun Zhu, Jianjun Qian, Jin Xie
 - [2021.10] National Graduate Scholarship (Top 2%), NJUST
 
 # 🤝 Academic Services
+- Area Chair / IPC Member: ICIG 2026; Pacific Graphics 2026
 - Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, ACM MM, AAAI
-- Journal Reviewer: IEEE TPAMI, IEEE TNNLS, IEEE TCSVT, IEEE RAL, PR, 
+- Journal Reviewer: IEEE TPAMI, IEEE TIP, IEEE TNNLS, IEEE TCSVT, IEEE TVCG, IEEE RAL, PR
