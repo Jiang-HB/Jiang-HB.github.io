@@ -77,7 +77,7 @@ My long-term goal is to develop spatially intelligent agents that can understand
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/GPCR-TPAMI20253.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/GPCR-TPAMI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generative Point Cloud Registration with Match-ControlNet](https://arxiv.org/pdf/2512.09407) ([**Code**](https://github.com/Jiang-HB/GenerativePCR))
