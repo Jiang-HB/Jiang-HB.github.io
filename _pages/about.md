@@ -29,6 +29,7 @@ My long-term goal is to develop spatially intelligent agents that can understand
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉 One paper was accepted by ***IEEE Transactions on Pattern Analysis and Machine Intelligence***.
 - *2026.07*: &nbsp; I was invited to serve as an Area Chair for **ICIG 2026** and as an International Program Committee (IPC) Member for **Pacific Graphics 2026**.
 - *2026.06*: &nbsp;🎉 Our paper FUSER is selected as 🏆***CVPR 2026 Best Paper Award Candidate***. It is the first point cloud-centric 3D reconstruction foundation model for feed-forward multiview registration without any pairwise matching or global synchronization.
 - *2026.02*: &nbsp;🎉 Four papers were accepted by ***CVPR 2026*** (⭐ 1 Oral, 1 Highlight).
@@ -72,6 +73,20 @@ My long-term goal is to develop spatially intelligent agents that can understand
 - The first *point-cloud-oriented 3D foundation reconstruction model* for feed-forward multiview point-cloud registration.
 - An SE(3)<sup>N</sup> diffusion refinement model for multiview pose refinement.
 - A new “pairwise-free” paradigm that cuts runtime from minutes to seconds while maintaining SOTA performance.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/GPCR-TPAMI20253.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Generative Point Cloud Registration with Match-ControlNet](https://arxiv.org/pdf/2512.09407) ([**Code**](https://github.com/Jiang-HB/GenerativePCR))
+
+**Haobo Jiang**, Jin Xie, Jian Yang, Liang Yu, and Jianmin Zheng
+
+- The first geometry-to-image synthesis-driven 3D matching paradigm that augments geometry-only descriptors with generated RGB cues.
+- Match-ControlNet for reliable, cross-view consistent image generation from point clouds.
+- A plug-and-play framework that converts generated color cues into stronger 3D correspondences.
 
 </div>
 </div>
@@ -260,7 +275,7 @@ Wei Xie, **Haobo Jiang**, Yun Zhu, Jianjun Qian, Jin Xie
 # 📝 Full Publications 
 
 2026
-
+- **Haobo Jiang**, Jin Xie, Jian Yang, Liang Yu and Jianmin Zheng, "Generative Point Cloud Registration with Match-ControlNet", **TPAMI** ([pdf](https://arxiv.org/pdf/2512.09407), [code](https://github.com/Jiang-HB/GenerativePCR))
 - **Haobo Jiang**, Jin Xie, Jian Yang, Liang Yu and Jianmin Zheng, "FUSER: Feed-Forward MUltiview 3D Registration Transformer and SE(3)<sup>N</sup> Diffusion Refinement", **CVPR 2026 (⭐Oral)** ([pdf](https://arxiv.org/pdf/2512.09373), [code](https://github.com/Jiang-HB/FUSER))
 - **Haobo Jiang**, Liang Yu and Jianmin Zheng, "GM-R<sup>2</sup>: Generative Matching Learning for Unsupervised Geometric Representation and Registration", **CVPR 2026 (⭐Highlight)** ([pdf](https://jiang-hb.github.io/), [code](https://jiang-hb.github.io/))
 - Kangjian Zhu, **Haobo Jiang<sup>#</sup>**, Jianjun Qian and Jin Xie, "A Cross-view Fusion Framework for Robust 6-DoF Grasp Pose Estimation", **CVPR 2026** ([pdf](https://jiang-hb.github.io/), [code](https://jiang-hb.github.io/), **Corresponding Author<sup>#</sup>**)
@@ -319,6 +334,9 @@ Wei Xie, **Haobo Jiang**, Yun Zhu, Jianjun Qian, Jin Xie
 - [2025.11] Nomination Award of China Society of Image and Graphics (CSIG, 中国图象图形学学会) Outstanding Doctoral Thesis
 - [2022.01] Best Paper Award, Asian Conference on Pattern Recognition (ACPR), 2021
 - [2021.10] National Graduate Scholarship (Top 2%), NJUST
+
+# 🎤 Invited Talks
+* [2026.09] VALSE Webinar, “迈向通用三维表征与匹配的基础模型研究”
 
 # 🤝 Academic Services
 - Area Chair / IPC Member: ICIG 2026; Pacific Graphics 2026
