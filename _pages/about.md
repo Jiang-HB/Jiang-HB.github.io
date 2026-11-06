@@ -77,13 +77,14 @@ My long-term goal is to develop spatially intelligent agents that can understand
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/GPCR-TPAMI2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/GPCR-TPAMI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generative Point Cloud Registration with Match-ControlNet](https://arxiv.org/pdf/2512.09407) ([**Code**](https://github.com/Jiang-HB/GenerativePCR))
 
 **Haobo Jiang**, Jin Xie, Jian Yang, Liang Yu, and Jianmin Zheng
 
+- This work is a journal extension of our ICML 2025 paper: Generative Point Cloud Registration.
 - The first geometry-to-image synthesis-driven 3D matching paradigm that augments geometry-only descriptors with generated RGB cues.
 - Match-ControlNet for reliable, cross-view consistent image generation from point clouds.
 - A plug-and-play framework that converts generated color cues into stronger 3D correspondences.
@@ -275,7 +276,7 @@ Wei Xie, **Haobo Jiang**, Yun Zhu, Jianjun Qian, Jin Xie
 # 📝 Full Publications 
 
 2026
-- **Haobo Jiang**, Jin Xie, Jian Yang, Liang Yu and Jianmin Zheng, "Generative Point Cloud Registration with Match-ControlNet", **IEEE Transaction on Pattern Analysis and Machine Intelligence** ([pdf](https://arxiv.org/pdf/2512.09407), [code](https://github.com/Jiang-HB/GenerativePCR))
+- **Haobo Jiang**, Jin Xie, Jian Yang, Liang Yu and Jianmin Zheng, "Generative Point Cloud Registration with Match-ControlNet", **IEEE Trans. on Pattern Analysis and Machine Intelligence 2026** ([pdf](https://arxiv.org/pdf/2512.09407), [code](https://github.com/Jiang-HB/GenerativePCR))
 - **Haobo Jiang**, Jin Xie, Jian Yang, Liang Yu and Jianmin Zheng, "FUSER: Feed-Forward MUltiview 3D Registration Transformer and SE(3)<sup>N</sup> Diffusion Refinement", **CVPR 2026 (⭐Oral)** ([pdf](https://arxiv.org/pdf/2512.09373), [code](https://github.com/Jiang-HB/FUSER))
 - **Haobo Jiang**, Liang Yu and Jianmin Zheng, "GM-R<sup>2</sup>: Generative Matching Learning for Unsupervised Geometric Representation and Registration", **CVPR 2026 (⭐Highlight)** ([pdf](https://jiang-hb.github.io/), [code](https://jiang-hb.github.io/))
 - Kangjian Zhu, **Haobo Jiang<sup>#</sup>**, Jianjun Qian and Jin Xie, "A Cross-view Fusion Framework for Robust 6-DoF Grasp Pose Estimation", **CVPR 2026** ([pdf](https://jiang-hb.github.io/), [code](https://jiang-hb.github.io/), **Corresponding Author<sup>#</sup>**)
